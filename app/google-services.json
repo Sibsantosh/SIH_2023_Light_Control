@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "718223093195",
+    "firebase_url": "https://smartirrigationsubu-default-rtdb.firebaseio.com",
+    "project_id": "smartirrigationsubu",
+    "storage_bucket": "smartirrigationsubu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718223093195:android:9ea4bea92328bf7ca31a4e",
+        "android_client_info": {
+          "package_name": "com.rexmo.sih2023lightcontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx7eVtBJdeZtm_LQwGfrf9lmqmapVBH48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
